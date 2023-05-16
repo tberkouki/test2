@@ -586,6 +586,9 @@
       "integrity": "sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==",
       "engines": {
         "node": ">= 0.8"
+        "scripts": {
+  "install": "npm install"
+},
       }
     }
   }
